@@ -1,31 +1,41 @@
 # Global-Superstore-Sales-Analysis
 Analyze Global Superstore Sales with Power BI. This project features interactive dashboards, data modeling, and visualizations to uncover sales trends, regional performance, and customer insights. Ideal for exploring data-driven decision-making and Power BI capabilities.
 
-# Key Features
+## Key Features
 
-✅ Key Performance Indicators (KPIs):
+✅ **Key Performance Indicators (KPIs):**
+
 The dashboard prominently displays essential metrics such as total sales, total profit, customer returns, and total orders. These KPIs provide a snapshot of the company's sales and operational performance.
 
-✅ Regional Sales Distribution:
+✅ **Regional Sales Distribution:**
+
 The dashboard visualizes sales performance by region, showcasing trends across markets like APAC, EU, US, and LATAM. This breakdown helps identify regional strengths and opportunities for improvement.
 
-✅ Profitability Analysis:
+✅ **Profitability Analysis:**
+
 Analyze profit margins and identify the top-performing products and categories, as well as loss-making items. The insights support data-driven decision-making for product optimization.
 
-✅ Shipping Insights:
+✅ **Shipping Insights:**
+
 Interactive visualizations show the distribution of orders by ship mode, including Standard Class, Second Class, First Class, and Same Day. This feature identifies shipping trends and preferences.
 
-✅ Sales Trends Over Time:
+✅ **Sales Trends Over Time:**
+
 A detailed column chart highlights sales trends over time, enabling users to observe consistent growth or seasonal fluctuations in sales performance.
 
-✅ Category Insights:
+✅ **Category Insights:**
+
 Profitability and sales data are segmented by product category and sub-category, including Technology, Office Supplies, and Furniture, offering a deeper understanding of product performance.
 
-✅ Interactive Filters and Drill-Downs:
+✅ **Interactive Filters and Drill-Downs:**
+
 Users can explore the data interactively by filtering and drilling down into specific regions, product categories, and time periods for detailed insights.
 
-✅ Top and Bottom Products:
+✅ **Top and Bottom Products:**
+
 Identify the top-performing products by profit and highlight the most significant loss-makers to improve inventory and sales strategies.
+
+# Power BI Dashboard
 
 
 ![Screenshot 2024-12-22 164213](https://github.com/user-attachments/assets/a60a81a5-4234-4e59-8b14-46db6c964010)
